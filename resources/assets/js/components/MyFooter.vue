@@ -3,7 +3,8 @@
     <div class="container">
       <div class="content has-text-centered">
         <p>
-          <strong>VueJs-PhonebookApp</strong> by <a href="">Ralf Gräf</a>. 
+          <strong>VueJs-PhonebookApp</strong> by <a target="_blank" href="https://github.com/Ralle1968/">Ralf Gräf</a>.
+          Access the source code <a target="_blank" href="https://github.com/Ralle1968/vuebulma">github.com/Ralle1968/vuebulma</a>.
         </p>
         <p>
           <a class="icon" href="https://github.com/jgthms/bulma">
